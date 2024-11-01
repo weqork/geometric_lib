@@ -9,7 +9,7 @@ def area(r):
             r (int): Радиус окружности
 
         Возвращаемое значение:
-        circleArea (int): Плошадь окружности радиуса r
+            circleArea (int): Плошадь окружности радиуса r
     
     '''
     return math.pi * r * r
@@ -23,7 +23,7 @@ def perimeter(r):
             r (int): Радиус окружности
 
         Возвращаемое значение:
-        circleArea (int): Длина окружности радиуса r
+            circlePerimeter (int): Длина окружности радиуса r
     
     '''
     return 2 * math.pi * r
