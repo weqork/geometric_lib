@@ -9,7 +9,7 @@ def area(a, b):
         Возвращаемое значение:
             rectangleArea (int): Площадь прямоугольника сторон a и b
     
-    '''    
+'''    
 return a * b 
 
 def perimeter(a, b):
@@ -23,5 +23,5 @@ def perimeter(a, b):
         Возвращаемое значение:
             rectanglePerimeter (int): Периметр прямоугольника сторон a и b
     
-    '''        
+'''        
 return (a + b) * 2 
