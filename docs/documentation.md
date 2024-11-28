@@ -72,3 +72,21 @@ Commit hash - effc63be0d77029661d3484a27d82d54afeda7bd
 Commit hash - 4f707d110ddc3defee95a86fd9533f7c1dfc76aa
 
 
+## Четверг Ноябрь 28 2024
+### 20:25:50
+Создание первой версии Unit тестов для проверки работы функций.
+Commit hash - 95e9d0ba223d1ab464d96a68124963fb17ab2ed6
+### 20:27:40 
+Корректное переименование одной из функций
+Commit hash - 06aedff682be137b7be400e3f320ac82935fc12e
+### 20:50:32
+Обновление Unit тестов, добавление новых проверок
+Commit hash - fc02a480af8e891816ad71565009c4df2fc39654
+### 20:51:28
+Обновление Unit тестов, добавление новой проверки
+Commit hash - 42372e1d8f97f09a1bbcfb9020bb4bcc88754d46
+Commit hash - abd7033e542de77c147aa619732c910c93213969
+Commit hash - 01f4ebd00069306681b827e8fe8c3dfbaf027d51
+Commit hash - 9732738e09f512c03ae5ca78e9638bd60cfcc403
+
+
