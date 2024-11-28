@@ -3,7 +3,7 @@ name: Run Unit Tests
 on:
   push:
     branches:
-      - new_feature_467935
+      - test
 
 jobs:
   test:
