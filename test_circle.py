@@ -6,7 +6,7 @@ from circle import (
 )
 
 
-class GeometryTestCase(unittest.TestCase):
+class CircleTestCase(unittest.TestCase):
 
     def test_circle_area(self):
         self.assertAlmostEqual(circle_area(5), math.pi * 25, places=1)
